@@ -1,2 +1,2 @@
-# Object-Oriented-Programming
-Projects done in BLG252E-Object Oriented Programming
+# Object-Oriented-Programming-HW1
+Project done in BLG252E-Object Oriented Programming
